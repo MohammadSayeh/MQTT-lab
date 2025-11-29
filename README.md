@@ -63,21 +63,21 @@ Three separate publisher programs were created:
 Sends random temperature values:
 
 ```python
-Temperature: 29.4°C | ID: اكتب_رقمك_الجامعي_هنا
+Temperature: 29.4°C | ID:12218504
 ```
 
 #### 📌 b) Humidity Publisher  
 Sends random humidity values:
 
 ```python
-Humidity: 61.2% | ID: اكتب_رقمك_الجامعي_هنا
+Humidity: 61.2% | ID: 12218504
 ```
 
 #### 📌 c) People Counter Publisher  
 Sends random number of detected people:
 
 ```python
-People Count: 7 | ID: اكتب_رقمك_الجامعي_هنا
+People Count: 7 | ID: 12218504
 ```
 
 Each publisher sends a message every **3 seconds**.
