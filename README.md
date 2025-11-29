@@ -1,5 +1,5 @@
 # MQTT Lab – Mosquitto + Paho  
-### Student ID: **اكتب_رقمك_الجامعي_هنا**
+### Student Name: **Mohammad Sayeh**
 
 ---
 
